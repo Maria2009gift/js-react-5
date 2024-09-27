@@ -1,13 +1,13 @@
 
-import style from './Card.module.css'
+import { Article, Title } from "./Card"
 
 export const Card = ({ hobby }) => {
     return (
-        <article className={style.article}>
-            <h2 className={style.title}>{hobby.name}</h2>
-            <img src={hobby.image} alt="" className={style.image}></img>
+        <Article>
+            <Title>{hobby.name}</Title>
+            <img src={hobby.image} alt=""></img>
             <p>{hobby.description}</p>
-        </article>
+        </Article>
     )
 }
 
