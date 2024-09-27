@@ -1,0 +1,24 @@
+
+[
+    {
+        "name": "Комп'ютерні ігри",
+        "image": "https://cdn.pixabay.com/photo/2017/07/19/23/34/driver-2520804_1280.jpg",
+        "description": "Улюблені ігри: Майнкрафт, Геншин, Стрей",
+        "id": "1"
+    },
+
+    {
+        "name": "Пазли",
+        "image": "https://cdn.pixabay.com/photo/2020/01/29/17/47/puzzles-4803151_1280.jpg",
+        "description": "Склала вже близько 20 пазлів!",
+        "id": "2"
+    },
+
+    {
+        "name": "Книги",
+        "image": "https://cdn.pixabay.com/photo/2020/03/25/11/43/book-4966982_1280.jpg",
+        "description": "Прочитала Гаррі Потера, Котів вояків, Шістку воронів.",
+        "id": "3"
+    }
+
+]
